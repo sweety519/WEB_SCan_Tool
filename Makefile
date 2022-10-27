@@ -1,6 +1,6 @@
 .DEFAULT_GOAL:=help
 
-# Credits: https://github.com/sherifabdlnaby/elastdocker/
+
 
 # This for future release of Compose that will use Docker Buildkit, which is much efficient.
 COMPOSE_PREFIX_CMD := COMPOSE_DOCKER_CLI_BUILD=1
