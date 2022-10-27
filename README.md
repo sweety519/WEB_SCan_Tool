@@ -21,47 +21,38 @@
 <a href="https://discord.gg/H6WzebwX3H" target="_blank"><img src="https://img.shields.io/discord/880363103689277461" alt="" /></a>&nbsp;
 </p>
 
-<h3>reNgine 1.1<br>More than just recon!</h3>
+<h3>Web scan tool 1.1<br>More than just recon!</h3>
 <h4>The only web application recon tool you will ever need!</h4>
 
 <p>Quickly discover the attack surface, and identify vulnerabilities using highly customizable and powerful scan engines.
 Enjoy peace of mind with reNgine's continuous monitoring, deeper reconnaissance, and open-source powered Vulnerability Scanner.</p>
 
-<h4>What is reNgine?</h4>
-<p align="left">reNgine is a web application reconnaissance suite with focus on a highly configurable streamlined recon process via Engines, recon data correlation, continuous monitoring, recon data backed by a database, and a simple yet intuitive User Interface. With features such as sub-scan, deeper co-relation, report generation, etc. reNgine aims to fix the gap in the traditional recon tools and probably a better alternative for existing commercial tools.
+<h4>What is web scan tool?</h4>
+<p align="left">web scan tool is a web application reconnaissance suite with focus on a highly configurable streamlined recon process via Engines, recon data correlation, continuous monitoring, recon data backed by a database, and a simple yet intuitive User Interface. With features such as sub-scan, deeper co-relation, report generation, etc. reNgine aims to fix the gap in the traditional recon tools and probably a better alternative for existing commercial tools.
 
-reNgine makes it easy for penetration testers and security auditors to gather reconnaissance data with bare minimal configuration.
+web scan tool makes it easy for penetration testers and security auditors to gather reconnaissance data with bare minimal configuration.
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <p align="center">
-    ⭐<a href="https://rengine.wiki">reNgine Documentation</a>
+    <a href="https://rengine.wiki">web scan tool Documentation</a>
     ·
     <a href="https://rengine.wiki/changelog/">What's new</a>
     ·
-    <a href="https://github.com/yogeshojha/rengine/blob/master/CONTRIBUTING.md">Contribute</a>
-    ·
-    <a href="https://github.com/yogeshojha/rengine/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/yogeshojha/rengine/issues">Request Feature</a>⭐
+    <a href="https://github.com/yogeshojha/rengine/issues">Request Feature</a>
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## Table of Contents
 
-* [About reNgine](#about-reNgine)
+* [About web scan tool](#about-web scan tool)
 * [Features](#features)
 * [Documentation](#documentation)
 * [Quick Installation](#quick-installation)
-* [What's new in reNgine](#changelog)
-* [reNgine Bug Bounty Program](#reNgine-bug-bounty-program)
+* [What's new in web scan tool](#changelog)
 * [Screenshots](#screenshots)
-* [Contributing](#contributing)
-* [reNgine Support](#reNgine-support)
-* [Related Projects](#related-projects)
-* [Support and Sponsoring](#support-and-sponsoring)
 * [License](#license)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
@@ -70,29 +61,29 @@ reNgine makes it easy for penetration testers and security auditors to gather re
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## About reNgine
+## About web scan tool
 
-You can watch [reNgine 1.1 release trailer here.](https://www.youtube.com/watch?v=iy_6F7Vq8Lo) (Recommended)
+You can watch [web scan tool 1.1 release trailer here.](https://www.youtube.com/watch?v=iy_6F7Vq8Lo) (Recommended)
 
 <img src="https://user-images.githubusercontent.com/17223002/164993688-50eb95f2-3653-4ef7-bd3b-ef7a096824ea.jpeg">
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-reNgine is a web application reconnaissance suite with a focus on a highly configurable streamlined recon process. reNgine is backed by a database, with data correlation and organization, the custom query “like” language for recon data filtering, reNgine aims to address the shortcomings of traditional recon workflow.
+web scan tool is a web application reconnaissance suite with a focus on a highly configurable streamlined recon process. web scan tool is backed by a database, with data correlation and organization, the custom query “like” language for recon data filtering, reNgine aims to address the shortcomings of traditional recon workflow.
 
 Developers behind the reNgine understand that recon data can be huge, and manually looking up for entries to attack could be cumbersome, with features like identifying Interesting Subdomains, helping penetration testers focus on attack rather than recon.
 
-reNgine is also focused on continuous monitoring. Penetration testers can choose to schedule the scan at periodic intervals and get notified on notification channels like Discord, Slack, and Telegram for any new subdomains or vulnerabilities identified, or any recon data changes.
+web scan tool is also focused on continuous monitoring. Penetration testers can choose to schedule the scan at periodic intervals and get notified on notification channels like Discord, Slack, and Telegram for any new subdomains or vulnerabilities identified, or any recon data changes.
 
-Interoperability is something every recon tool needs, and reNgine is no different. Beginning reNgine 1.0, we additionally developed features such as import and export subdomains, endpoints, GF pattern matched endpoints, etc. This will allow you to use your favorite recon workflow in conjunction with reNgine.
+Interoperability is something every recon tool needs, and reNgine is no different. Beginning web scan tool 1.0, we additionally developed features such as import and export subdomains, endpoints, GF pattern matched endpoints, etc. This will allow you to use your favorite recon workflow in conjunction with reNgine.
 
-PDF reports are something every individual or a team needs. Beginning reNgine 1.1, reNgine also comes with an option to download PDF reports. One can also choose the type of report, Full Scan Report or just a reconnaissance report. Also, we understand that PDF reports need to be customizable. Choose the color of the report you like, customize the executive summary, etc. You choose the way your pdf report looks!
+PDF reports are something every individual or a team needs. Beginning reNgine 1.1, web scan tool also comes with an option to download PDF reports. One can also choose the type of report, Full Scan Report or just a reconnaissance report. Also, we understand that PDF reports need to be customizable. Choose the color of the report you like, customize the executive summary, etc. You choose the way your pdf report looks!
 
 reNgine features Highly configurable scan engines based on YAML, that allows penetration testers to create as many recon engines as they want of their choice, configure as they wish, and use them against any targets for the scan. These engines allow penetration testers to use tools of their choice, the configuration of their choice. Out of the box, reNgine comes with several scan engines like Full Scan, Passive Scan, Screenshot gathering, OSINT Engine, etc.
 
-Our focus has always been on finding the right recon data with very minimal effort. After having several discussions with fellow hackers/pentesters, a screenshots gallery was a must, reNgine also comes with a screenshot gallery, and what's more exciting than having a screenshot gallery with filters, filter screenshots with HTTP status, technology, ports, and services.
+Our focus has always been on finding the right recon data with very minimal effort. After having several discussions with fellow hackers/pentesters, a screenshots gallery was a must, web scan tool also comes with a screenshot gallery, and what's more exciting than having a screenshot gallery with filters, filter screenshots with HTTP status, technology, ports, and services.
 
-We also want our fellow hackers to stay ahead of the game, reNgine also comes with automatic vulnerability reporting (ATM only Hackerone is supported, other platforms may come soon). This allows hackers to define their vulnerability report template and reNgine will do the rest of the job to report vulnerability as soon as it is identified.
+We also want our fellow hackers to stay ahead of the game, web scan tool also comes with automatic vulnerability reporting (ATM only Hackerone is supported, other platforms may come soon). This allows hackers to define their vulnerability report template and reNgine will do the rest of the job to report vulnerability as soon as it is identified.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
