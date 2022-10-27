@@ -66,27 +66,7 @@ reNgine makes it easy for penetration testers and security auditors to gather re
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-### 💐💐💐 Tribute to Jasper 💐💐💐
- 
- ;             |  ;
-:-------------------------:|:-------------------------:
-<img src=https://user-images.githubusercontent.com/17223002/191900102-fbb05cb0-6007-49cc-9c5a-40be690d2bc0.jpg height=300> | <img src=https://user-images.githubusercontent.com/17223002/191901331-af2bd0e8-c63d-4f19-8c6c-09a181234626.png height=300>
 
-
-September 18, 2022 10:58 IST, Jasper crossed the rainbow bridge peacefully in my arms. He battled a long time with Cardiac Fibrosis and Chronic Kidney Disease. Jasper was a wonder dog, my everything and my love. We both lived together for 7 years, he was 60 days old and I was 19 years old back then, and we pretty much grew together. 
-
-My biological family lived in another country thousand miles away while Jasper by my side always every waking hours. He meant so much to me, more than just a dog, he was my brother, my son and probably everything.
-
-Every lines of code I have written for reNgine, Jasper was a part of it, every failured I had, Jasper cheered me up. He knew my best and worst. A part of me has gone forever and I am deeply broken. I take this space to honor Jasper's life.
-
-Shine brighter and fly higher Jasper!
-
-
-#### reNgine 2.0 codenamed Jasper
-
-I am currently working on reNgine 2.0 likely to be announced sometimes between May to August 2023. This version will be codenamed for Jasper. reNgine 2.0 will be the most advanced reNgine ever, a tons of work will be done in how scans are performed, things such as Pause and Resume Scan, Axiom Integration, more deeper coorelation, Project Options, Multiple Tenants, etc.
-
-Please submit your feature requests via github issues or you can [use this form](https://docs.google.com/forms/d/1Ow0XYVm8nKirG5Gvnn4Jlvx0NZ9I6CQzShXXfzhE8aE/viewform?edit_requested=true) as well.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -148,78 +128,13 @@ We also want our fellow hackers to stay ahead of the game, reNgine also comes wi
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## Documentation
-
-You can find reNgine documentation on [https://rengine.wiki](https://rengine.wiki)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## Quick Installation
 
-**(Only Ubuntu/VPS)**
 
-1. Clone this repo
 
-```
-git clone https://github.com/yogeshojha/rengine && cd rengine
-```
 
-2. Edit the dotenv file, **please make sure to change the password for postgresql POSTGRES_PASSWORD !**
-
-```
-nano .env
-```
-
-3. Run the installation script, Please keep an eye for any prompt, you will also be asked for username and password for reNgine.
-
-```
-sudo ./install.sh
-```
-
-if `./install.sh` does not have install permission, please change it, `chmod +x install.sh`
-
-**reNgine can now be accessed from https://127.0.0.1 or if you're on the VPS https://your_vps_ip_address**
-
-A detailed installation guide can also be found [here](https://www.rffuste.com/2022/05/23/rengine-a-brief-overview/). Thanks to Rubén!
-
-## Installation (Mac/Windows/Other)
-
-Installation instructions can be found at [https://reNgine.wiki/install/detailed/](https://reNgine.wiki/install/detailed/)
-
-## Changelog
-
-[Please find the latest release notes and changelog here.](https://rengine.wiki/changelog/)
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)  
-
-## reNgine Bug Bounty Program
-
-[![huntr](https://cdn.huntr.dev/huntr_security_badge_mono.svg)](https://huntr.dev/bounties/disclose/?target=https%3A%2F%2Fgithub.com%2Fyogeshojha%2Frengine)
-
-Security Researchers welcome onboard! I am excited to announce the bug bounty program for reNgine in collaboration with [huntr.dev](https://huntr.dev), this means you'll be rewarded for any security vulnerabilities discovered in reNgine.
-
-Thank you for your interest in reporting vulnerabilities to reNgine! If you are aware of potential security vulnerabilities within reNgine, we encourage you to report immediately via [huntr.dev](https://huntr.dev/bounties/disclose/?target=https%3A%2F%2Fgithub.com%2Fyogeshojha%2Frengine)
-
-**Please do not disclose any vulnerabilities via Github Issues/Blogs/Tweets after/before reporting on huntr.dev as it is explicitly against huntr.dev and reNgine disclosure policy and will not be eligible for monetary rewards.**
-
-Please note that the maintainer of reNgine does not determine the bounty amount.
-The bounty reward is determined by an industry-first equation from huntr.dev to understand the popularity, impact, and value of repositories to the open-source community.
-
-**What do I expect from security researchers?**
-
-* Patience: Please note that currently I am the only maintainer in reNgine and will take some time to validate your report. I request your patience throughout the process.
-* Respect Privacy and Security Reports: Please do not disclose any vulnerabilities in public (this also includes GitHub issues) before or after reporting on huntr.dev! That is against the disclosure policy and will not be eligible for monetary rewards.
-* Respect the rules
-
-**What do you get in return?**
-
-* Much thanks from Maintainer
-* Monetary Rewards
-* CVE ID(s)
-
-Please find the [FAQ](https://www.huntr.dev/faq) and [Responsible disclosure policy](https://www.huntr.dev/policy/) from huntr.dev.
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## Screenshots
 
@@ -253,63 +168,3 @@ Please find the [FAQ](https://www.huntr.dev/faq) and [Responsible disclosure pol
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. Your contributions could be as simple as fixing the indentations or fixing UI to as complex as bringing new modules and features.
-
-See [contributing guide](.github/CONTRIBUTING.md) to get started.
-
-You can also [join our discord channel #development](https://discord.gg/JuhHdHTtwd) for any development related queries.
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-### First-time Open Source contributors
-
-Please note that reNgine is beginner-friendly. If you have never done any open-source yet, we encourage you to do so. **We will be happy and proud of your first PR ever.**
-
-You can begin with resolving any [open issues](https://github.com/yogeshojha/rengine/issues).
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-
-## reNgine Support
-
-Please do not raise any github issues for support requests. Instead, [join our discord channel #support](https://discord.gg/azv6fzhNCE)
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-## Related Projects
-
-There are many other great reconnaissance frameworks, you may use reNgine in conjunction with these tools. But, they themselves are great, and may sometimes even produce better results than reNgine.
-
-- [ReconFTW](https://github.com/six2dez/reconftw#sample-video)
-- [Reconmap](https://github.com/reconmap/reconmap)
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-## Support and Sponsoring
-
-Over the last few years, I have been working hard on reNgine to bring new features with the only goal to make this a De-facto standard for reconnaissance. Most of my out-of-office hours and weekends are spent working on reNgine. I do this in addition to my primary job. I am happy to have received such overwhelming support from the community. But to keep this project alive, I am seeking financial support.
-
-|                                                                       Paypal                                                                       |                                                            Bitcoin                                                             |                                                            Ethereum                                                            |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
-|[https://www.paypal.com/paypalme/yogeshojha11](https://www.paypal.com/paypalme/yogeshojha11)                                 |                                              `35AiKyNswNZ4TZUSdriHopSCjNMPi63BCX`                                              |                                          `0xe7A337Da6ff98A28513C26A7Fec8C9b42A63d346`  
-
-OR
-
-- Add a [GitHub Star](https://github.com/yogeshojha/rengine) to the project.
-- Tweet about this project, or maybe blogs?
-- Maybe nominate me for [github stars?](https://stars.github.com/nominate/)
-- Join DigitalOcean using my [referral link](https://m.do.co/c/e353502d19fc) your profit is **$100** and I get $25 DO credit. This will help me test reNgine on VPS before I release any major features.
-
-It takes a considerable amount of time to add new features and make sure everything is working. A donation is your way of saying: **reNgine is awesome**
-
-Any support is greatly appreciated! Thank you!
-
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-## License
-Distributed under the GNU GPL v3 License. See [LICENSE](LICENSE) for more information.
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
